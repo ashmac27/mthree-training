@@ -1,0 +1,6 @@
+Water::1.0::1
+Pepsi::2.0::3
+Coca Cola::2.5::4
+Lays::1.7::8
+Spearmint Gum::1.5::2
+Doritos::1.5::3

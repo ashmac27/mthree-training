@@ -1,0 +1,72 @@
+2021-11-18T21:38:14 | Attempt to load item data from file.
+2021-11-18T21:39:23 | Attempt to load item data from file.
+2021-11-18T21:39:23 | Item data was successfuly loaded from file.
+2021-11-18T21:39:23 | Called getAllItems()
+2021-11-18T21:44:03 | Attempt to load item data from file.
+2021-11-18T21:44:03 | Item data was successfuly loaded from file.
+2021-11-18T21:44:03 | Called getAllItems()
+2021-11-18T21:46:33 | Attempt to load item data from file.
+2021-11-18T21:46:33 | Item data was successfuly loaded from file.
+2021-11-18T21:46:33 | Called getAllItems()
+2021-11-18T21:49:31 | Attempt to load item data from file.
+2021-11-18T21:49:31 | Item data was successfuly loaded from file.
+2021-11-18T21:49:31 | Called getAllItems()
+2021-11-19T03:35:48 | Attempt to load item data from file.
+2021-11-19T03:35:48 | Item data was successfuly loaded from file.
+2021-11-19T03:35:48 | Called getAllItems()
+2021-11-19T03:35:59 | Called getAllItems()
+2021-11-19T03:36:04 | Called purchaseItem()
+2021-11-19T03:36:04 | Attempt to write item data to file.
+2021-11-19T03:36:04 | Item data was successfully written to file.
+2021-11-19T03:36:04 | Called getAllItems()
+2021-11-19T04:02:49 | Called getItem()
+2021-11-19T04:02:49 | Called getItem()
+2021-11-19T04:02:49 | Called getAllItems()
+2021-11-19T04:02:49 | Called getAllItems()
+2021-11-19T04:02:49 | Called getAllItems()
+2021-11-19T04:02:49 | Called purchaseItem()
+2021-11-19T04:07:22 | Attempt to load item data from file.
+2021-11-19T04:07:22 | Item data was successfuly loaded from file.
+2021-11-19T04:07:22 | Called getAllItems()
+2021-11-19T04:07:58 | Called getItem()
+2021-11-19T04:07:58 | Called getItem()
+2021-11-19T04:07:58 | Called getAllItems()
+2021-11-19T04:07:58 | Called getAllItems()
+2021-11-19T04:07:58 | Called getAllItems()
+2021-11-19T04:07:58 | Called purchaseItem()
+2021-11-19T04:10:19 | Called getItem()
+2021-11-19T04:10:19 | Called getItem()
+2021-11-19T04:10:19 | Called getAllItems()
+2021-11-19T04:10:19 | Called getAllItems()
+2021-11-19T04:10:19 | Called getAllItems()
+2021-11-19T04:10:19 | Called purchaseItem()
+2021-11-19T04:10:38 | Called getItem()
+2021-11-19T04:10:38 | Called getItem()
+2021-11-19T04:10:38 | Called getAllItems()
+2021-11-19T04:10:38 | Called getAllItems()
+2021-11-19T04:10:38 | Called getAllItems()
+2021-11-19T04:10:38 | Called purchaseItem()
+2021-11-19T13:59:44 | Called getItem()
+2021-11-19T13:59:44 | Called getItem()
+2021-11-19T13:59:44 | Called getAllItems()
+2021-11-19T13:59:44 | Called getAllItems()
+2021-11-19T13:59:44 | Called getAllItems()
+2021-11-19T13:59:44 | Called purchaseItem()
+2021-11-19T14:02 | Attempt to load item data from file.
+2021-11-19T14:02 | Item data was successfuly loaded from file.
+2021-11-19T14:02 | Called getAllItems()
+2021-11-22T13:14:15 | Attempt to load item data from file.
+2021-11-22T13:14:15 | Item data was successfuly loaded from file.
+2021-11-22T13:14:15 | Called getAllItems()
+2021-11-22T14:00:04 | Attempt to load item data from file.
+2021-11-22T14:00:04 | Item data was successfuly loaded from file.
+2021-11-22T14:00:04 | Called getAllItems()
+2021-11-22T14:00:25 | Called getAllItems()
+2021-11-22T14:00:31 | Called purchaseItem()
+2021-11-22T14:00:31 | Water was purchased.
+2021-11-22T14:00:31 | Attempt to write item data to file.
+2021-11-22T14:00:31 | Item data was successfully written to file.
+2021-11-22T14:00:31 | Called getAllItems()
+2021-11-29T05:17:49 | Attempt to load item data from file.
+2021-11-29T05:17:49 | Item data was successfuly loaded from file.
+2021-11-29T05:17:49 | Called getAllItems()
